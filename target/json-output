@@ -1,0 +1,286 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 381157,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HookingStepDefinations.SetupBrowser()"
+            }
+          },
+          {
+            "result": {
+              "duration": 135761,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HookingStepDefinations.CheckFiles()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Verify first scenario for hooking",
+        "description": "",
+        "id": "verify-customer-hooks-in-cucumber;verify-first-scenario-for-hooking",
+        "after": [
+          {
+            "result": {
+              "duration": 116633,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HookingStepDefinations.Destoryfiles()"
+            }
+          },
+          {
+            "result": {
+              "duration": 135295,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HookingStepDefinations.tearDownBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 141944005,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "first step for hooking",
+            "match": {
+              "location": "HookingStepDefinations.first_step_for_hooking()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 657811,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "second step for hooking",
+            "match": {
+              "location": "HookingStepDefinations.second_step_for_hooking()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 284585,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "third step for hooking",
+            "match": {
+              "location": "HookingStepDefinations.third_step_for_hooking()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@First"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 332638,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HookingStepDefinations.SetupBrowser()"
+            }
+          },
+          {
+            "result": {
+              "duration": 108702,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HookingStepDefinations.CheckFiles()"
+            }
+          }
+        ],
+        "line": 10,
+        "name": "Verify second scenario for hooking",
+        "description": "",
+        "id": "verify-customer-hooks-in-cucumber;verify-second-scenario-for-hooking",
+        "after": [
+          {
+            "result": {
+              "duration": 235133,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HookingStepDefinations.Destoryfiles()"
+            }
+          },
+          {
+            "result": {
+              "duration": 193144,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HookingStepDefinations.tearDownBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 259392,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "first step for hooking",
+            "match": {
+              "location": "HookingStepDefinations.first_step_for_hooking()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4712915,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "second step for hooking",
+            "match": {
+              "location": "HookingStepDefinations.second_step_for_hooking()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 600895,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "third step for hooking",
+            "match": {
+              "location": "HookingStepDefinations.third_step_for_hooking()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Second"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 172150,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HookingStepDefinations.SetupBrowser()"
+            }
+          },
+          {
+            "result": {
+              "duration": 52719,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HookingStepDefinations.CheckFiles()"
+            }
+          }
+        ],
+        "line": 16,
+        "name": "Verify third scenario for hooking",
+        "description": "",
+        "id": "verify-customer-hooks-in-cucumber;verify-third-scenario-for-hooking",
+        "after": [
+          {
+            "result": {
+              "duration": 65781,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HookingStepDefinations.Destoryfiles()"
+            }
+          },
+          {
+            "result": {
+              "duration": 64848,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HookingStepDefinations.tearDownBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 369027,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "first step for hooking",
+            "match": {
+              "location": "HookingStepDefinations.first_step_for_hooking()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 239797,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "second step for hooking",
+            "match": {
+              "location": "HookingStepDefinations.second_step_for_hooking()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 235599,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "third step for hooking",
+            "match": {
+              "location": "HookingStepDefinations.third_step_for_hooking()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Third"
+          }
+        ]
+      }
+    ],
+    "name": "Verify customer hooks in Cucumber",
+    "description": "",
+    "id": "verify-customer-hooks-in-cucumber",
+    "keyword": "Feature",
+    "uri": "D:/Workspace/FreeCrmBDDFramework/src/main/resources/features/hooking.feature",
+    "tags": []
+  }
+]
